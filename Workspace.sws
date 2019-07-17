@@ -5,7 +5,8 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{0F4E1680-E99C-4885-A4E2-7167CCA48DB1}" Name="QuanLyOto" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="BT3/QuanLyOto.cdm"/>
-		<Model Expanded="Yes" ID="{FE82EA67-FEA5-4C72-9A24-53AE57DE0CB0}" Name="QuanLyOtoBPM" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="BT3/QuanLyOtoBPM.bpm"/>
+		<Model Expanded="Yes" ID="{1787B102-03CC-48E2-9109-425CCE56389A}" Name="QuanLyOto" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="BT3/QuanLyOto.pdm"/>
+		<Model ID="{FE82EA67-FEA5-4C72-9A24-53AE57DE0CB0}" Name="QuanLyOtoBPM" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="BT3/QuanLyOtoBPM.bpm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
